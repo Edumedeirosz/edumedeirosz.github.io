@@ -13,3 +13,10 @@
 .body {
 
 }
+
+.footer {
+  width:100%;
+  font-family: arial;
+  background-color: black;
+  color: white;
+}
