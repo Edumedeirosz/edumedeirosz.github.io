@@ -1,23 +1,32 @@
 .ferramentas {
+  display:flex;
+  align-items:center;
+  flex-direction:row;
+  padding:7;
+  text-align:bottom;
+  
   
 }
 
+.janela {
+  display:flex;
+  align-items:left;
+  flex-direction:column;
+  flex-wrap:wrap;
+  width:50px;
+  height:100vh;
+  padding:0;
+  gap:0;
+
 .apps {
-
-}
-
-.nomes {
-
+  display:flex;
+  align-items:center;
+  padding:7;
+  text-align:bottom;
+  height: 20px;
+  width:20px;
 }
 
 .body {
   
-}
-
-footer {
-  padding:0;
-  background-color:black;
-  font-family:arial;
-  color:white;
-  height:30px;
 }
