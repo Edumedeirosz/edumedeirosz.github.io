@@ -28,7 +28,7 @@ body {
 
 }
 
-.janela {
+.app {
   display: flex;
   align-items: center;
   height: 50px;
