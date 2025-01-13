@@ -1,6 +1,6 @@
 .ferramentas {
   width:100vw;
-  height:70px;
+  height:50px;
   background-image: linear-gradient(#1b49b5, #4a79e8, #1b49b5);
   position: fixed;
   bottom: 0;
@@ -10,7 +10,7 @@
 .janela {
   width:250px;
   height:100vh;
-  padding:0;
+  padding:100;
   gap:0;
   margin:0;
   background-color:green;
@@ -26,7 +26,8 @@
 
 body {
   background-size: cover;
-  background-image: url("https://external-preview.redd.it/r6g38aXSaQWtd1KxwJbQ-Fs5jtSVDxX3wtLHJEdqixw.jpg");
+  background-image: url('https://external-preview.redd.it/r6g38aXSaQWtd1KxwJbQ-Fs5jtSVDxX3wtLHJEdqixw.jpg');
   width: 100;
   height: 100;
+  margin:0;
 }
