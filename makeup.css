@@ -7,7 +7,7 @@ body {
 }
 
 .barra {
-
+  display: flex;
   background: linear-gradient(#3452eb, #4866fa, #657ffc);
   position:fixed;
   width: 100vw;
