@@ -1,5 +1,5 @@
 .ferramentas {
-  width:100vh;
+  width:100vw;
   height:70px;
   background-image: linear-gradient(#1b49b5, #4a79e8, #1b49b5);
   position: fixed;
@@ -27,4 +27,6 @@
 body {
   background-size: cover;
   background-image: url("https://external-preview.redd.it/r6g38aXSaQWtd1KxwJbQ-Fs5jtSVDxX3wtLHJEdqixw.jpg");
+  width: 100;
+  height: 100;
 }
