@@ -4,3 +4,14 @@ body {
   background-size: cover;
   background-align: center;
 }
+
+.barra {
+
+  background-image: linear-gradient(bottom, #3452eb, #4866fa, #657ffc);
+  width: 100vw;
+  height:50px;
+  bottom:0;
+
+
+
+}
