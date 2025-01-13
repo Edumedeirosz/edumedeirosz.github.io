@@ -7,9 +7,7 @@ body {
 }
 
 .barra {
-  display: flex;
-  flex-direcion: column;
-  background-image: linear-gradient(#3452eb, #4866fa, #657ffc);
+  display: flex;  background-image: linear-gradient(#3452eb, #4866fa, #657ffc);
   position:absolute;
   width: 100vw;
   height:50px;
@@ -21,6 +19,7 @@ body {
 
 .apps1 {
   display: flex;
+  flex-direction: column;
   background-color: green;
   width: 50px;
   height:50px;
