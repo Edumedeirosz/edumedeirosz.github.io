@@ -31,6 +31,7 @@ body {
 .app {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   height: 50px;
   width: 50px;
   max-height: 90%;
