@@ -7,7 +7,8 @@ body {
 }
 
 .barra {
-  display: flex;  background-image: linear-gradient(#3452eb, #4866fa, #657ffc);
+  display: flex;  
+  background-image: linear-gradient(#3452eb, #4866fa, #657ffc);
   position:absolute;
   width: 100vw;
   height:50px;
@@ -17,11 +18,24 @@ body {
 
 }
 
-.apps1 {
+.janela {
   display: flex;
-  flex-direction: column;
-  background-color: green;
+  align-items: left;
+  height: 100vh;
+  width: 200px;
+  background-color: white;
+  gap: 7;
+
+}
+
+.janela {
+  display: flex;
+  align-items: center;
+  height: 50px;
   width: 50px;
-  height:50px;
-  padding:10px;
-  items-align: left;
+  max-height: 90%;
+  width: auto;
+
+}
+
+
