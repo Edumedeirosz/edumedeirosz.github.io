@@ -4,6 +4,8 @@
   background-image: linear-gradient(#1b49b5, #4a79e8, #1b49b5);
   position: fixed;
   bottom: 0;
+  padding: 0;
+  margin: 0;
   
 }
 
