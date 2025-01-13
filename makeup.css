@@ -12,15 +12,15 @@
 .janela {
   width:250px;
   height:100vh;
-  padding:100;
+  padding:0;
   gap:0;
   margin:0;
   background-color:green;
   left: 0;
 
 .apps {
-   flex-direction:column;
   display:flex;
+  flex-direction:column;
   align-items:center;
   padding:7;
   text-align:bottom;
