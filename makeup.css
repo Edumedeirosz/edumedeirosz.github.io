@@ -29,3 +29,10 @@ body {
 
   
 }
+
+.app-barra {
+  display: flex;
+  align-items: center;
+  padding: 10;
+  max-width: 100&;
+  height: auto;
