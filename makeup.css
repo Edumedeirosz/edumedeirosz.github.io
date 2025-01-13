@@ -21,6 +21,8 @@
   width:20px;
 }
 
-.body {
-  
+body {
+  width:100vh;
+  height:100vh;
+  background-image: url("https://external-preview.redd.it/r6g38aXSaQWtd1KxwJbQ-Fs5jtSVDxX3wtLHJEdqixw.jpg");
 }
