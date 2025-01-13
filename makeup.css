@@ -14,6 +14,7 @@
   gap:0;
   margin:0;
   background-color:green;
+  left: 0;
 
 .apps {
   display:flex;
