@@ -8,7 +8,7 @@ body {
 
 .barra {
   display: flex;
-  background: linear-gradient(#3452eb, #4866fa, #657ffc);
+  background-color: blue;
   position:absolute;
   width: 100vw;
   height:50px;
