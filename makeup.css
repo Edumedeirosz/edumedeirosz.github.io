@@ -8,6 +8,7 @@ body {
 .barra {
 
   background-image: linear-gradient(bottom, #3452eb, #4866fa, #657ffc);
+  position:fixed;
   width: 100vw;
   height:50px;
   bottom:0;
