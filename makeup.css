@@ -20,7 +20,8 @@ body {
   flex-direction:row;
   align-content:flex-start;
   position: fixed;
-  bottom:100;
+  bottom:0;
+  left:0;
   height:50px;
   width:100vw;
   background-image: linear-gradient(#3452eb, #5482f0, #5f8cf5, #7da1f5);
