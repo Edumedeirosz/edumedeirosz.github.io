@@ -41,4 +41,14 @@ body {
 
 }
 
+.appdi {
+  display: flex;
+  align-items: left;
+  width: 70;
+  height: 100%
+  padding: 10;
+  gap: 5;
+  color: pink;
+}
+
 
