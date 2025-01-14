@@ -66,6 +66,7 @@ body {
     padding: 4px;
     gap: 7px;
     color: white;
+    text-shadow: 2px 2px 2px black;
     font-family: ms sans serif;
 
 }
