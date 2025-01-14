@@ -1,7 +1,7 @@
 
 body {
 
-	background-image: url('http://i.imgur.com/VvNhMb0.jpg');
+    background-image: url('http://i.imgur.com/VvNhMb0.jpg');
     background-size: cover;
     background-align: center;
     background-repeat: no-repeat;
@@ -11,7 +11,7 @@ body {
 
 .barra {
 
-	display: flex;
+    display: flex;
     gap: 10;
     padding: 5;
     align-items: center;
@@ -29,8 +29,8 @@ body {
 
 .apps-barra {
 
-	display: flex;
-	height: 80%;
+    display: flex;
+    height: 80%;
     align-items: center;
     width: 80%;
     background: linear-gradient(to top, #6556db, #7c6ded, #9186eb);
@@ -44,7 +44,7 @@ body {
 
 .janela {
 
-	display: flex;
+    display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     height: 100%;
@@ -62,10 +62,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 70%;
-    width: 70%;
-    padding: 5px;
-    gap: 5px;
+    height: 90%;
+    width: 90%;
+    padding: 4px;
+    gap: 7px;
+    color: white;
+    font-family: ms sans serif;
 
 }
 
