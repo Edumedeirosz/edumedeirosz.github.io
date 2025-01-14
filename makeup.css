@@ -48,10 +48,9 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     height: 100%;
-    width: 200px;
-    padding: 20px;
-    justify-content: space-around;
-    gap: 10px;
+    width: 100px;
+    padding: 1px;
+    gap: 5px;
     
     
 
