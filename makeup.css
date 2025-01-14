@@ -42,6 +42,7 @@ body {
     justify-content: space-between;
     gap: 20px;
     padding: 1px;
+    overflow: hidden;
     
 
 
