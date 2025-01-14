@@ -30,9 +30,9 @@ body {
 .apps-barra {
 
     display: flex;
-    height: 20%;
+    height: 90%;
     align-items: center;
-    width: 20%;
+    width: 80%;
     background: linear-gradient(to top, #6556db, #7c6ded, #9186eb);
     border-radius: 3px;
     text-align: center;
