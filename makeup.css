@@ -10,7 +10,7 @@ body {
   display: flex;  
   align-items: center;
   background-image: linear-gradient(#3452eb, #4866fa, #657ffc);
-  position:absolute;
+  position: absolute;
   width: 100vw;
   height:50px;
   bottom:0;
@@ -20,13 +20,16 @@ body {
 
 .janela {
   display: flex;
-  align-items: left;
-  flex-direction: column;
-  height: 100%;
-  width: 200px;
-  gap: 10;
-  padding: 5;
-  color: white;
+  flex-position: column;
+  height:100vh;
+  width:200px;
+  gap:10;
+  padding:5;
+  color: purple;
+  flex-wrap: wrap;
+  
+  
+  
 
 }
 
@@ -36,11 +39,14 @@ body {
   align-items: center;
   height: 50px;
   width: 50px;
+  object-fit: contain;
 
 }
 
-.aps-image {
+.apps-imagem {
   width:100%;
   height: auto;
+  object-fit: contain;
+}
   
   
