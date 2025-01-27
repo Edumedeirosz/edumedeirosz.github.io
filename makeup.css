@@ -54,6 +54,10 @@ footer {
     width: 64%;
 }
 
+a {
+    text-decoration: none;
+
+}
 
 .barra {
     display: flex;
